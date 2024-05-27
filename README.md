@@ -22,3 +22,9 @@
 ![Result - 1](devops-2.png)
 ![Result - 1](devops-3.png)
 ![Result - 1](devops-4.png)
+
+## Logic App
+![Result - 1](logicapp=1.jpg)
+![Result - 1](logicapp=2.jpg)
+
+## CI + CD
