@@ -28,3 +28,7 @@
 ![Result - 1](logicapp-2.jpg)
 
 ## CI + CD
+![Result - 1](cicd-1.jpg)
+![Result - 1](cicd-2.png)
+![Result - 1](cicd-3.png)
+![Result - 1](cicd-4.png)
