@@ -32,3 +32,15 @@
 ![Result - 1](cicd-2.png)
 ![Result - 1](cicd-3.png)
 ![Result - 1](cicd-4.png)
+
+
+## Service Fabric
+
+![Result - 1](cluster-1.png)
+![Result - 1](cluster-2.png)
+![Result - 1](cluster-3.png)
+![Result - 1](cluster-4.png)
+![Result - 1](cluster-5.png)
+После перезагрузки
+![Result - 1](cluster-6.png)
+![Result - 1](cluster-7.png)
