@@ -36,11 +36,11 @@
 
 ## Service Fabric
 
-![Result - 1](cluster-1.png)
-![Result - 1](cluster-2.png)
-![Result - 1](cluster-3.png)
-![Result - 1](cluster-4.png)
-![Result - 1](cluster-5.png)
+![Result - 1](cluster-1.jpg)
+![Result - 1](cluster-2.jpg)
+![Result - 1](cluster-3.jpg)
+![Result - 1](cluster-4.jpg)
+![Result - 1](cluster-5.jpg)
 После перезагрузки
-![Result - 1](cluster-6.png)
-![Result - 1](cluster-7.png)
+![Result - 1](cluster-6.jpg)
+![Result - 1](cluster-7.jpg)
